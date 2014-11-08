@@ -27,6 +27,6 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
     }
 
     public void testThatHelloWorldIsDisplayed() {
-        assertEquals("Hello world!", textView.getText().toString());
+        assertEquals(mainActivity.getString(R.string.hello_world), textView.getText().toString());
     }
 }
