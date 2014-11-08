@@ -24,3 +24,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Text editor files
+*.sw[op]
