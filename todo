@@ -1,3 +1,4 @@
+Write a file to the file system.
 Read a file from the file system.
 Play a sound from the file system when the app opens.
 Play a sound from the file system when a button is pressed.
