@@ -1,5 +1,3 @@
-Read a file from the file system.
-Play a sound from the file system when the app opens.
 Play a sound from the file system when a button is pressed.
 Button to begin and stop recording.
 Play back the recording.
